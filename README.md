@@ -1,6 +1,6 @@
 # leitura_boletos
 
-O notebook deste repositório possibilita a leitura de boletos do Bradesco salvos em uma pasta específica e a extração dos dados necessários ao setor:
+O notebook deste repositório possibilita a leitura de boletos do Bradesco e do Banco do Brasil salvos em uma pasta específica e a extração dos dados necessários ao setor:
 * Código do banco
 * Código do boleto
 * CNPJ do beneficiário
